@@ -1,0 +1,6 @@
+contract @activestate.com/koDBXPreference?database=MySQL;1 {be49be34-1a44-496a-9d4f-8dec54610300}
+component {be49be34-1a44-496a-9d4f-8dec54610300} koDBConnMySQL.py
+contract @activestate.com/koDBXConnection?database=MySQL;1 {b80e3882-4f4d-45c7-b12b-d21b1aaf675b}
+component {b80e3882-4f4d-45c7-b12b-d21b1aaf675b} koDBConnMySQL.py
+category komodo-DBX-DBConnections %40activestate.com/koDBXConnection%3Fdatabase%3DMySQL%3B1 @activestate.com/koDBXConnection?database=MySQL;1
+category komodo-DBX-Preferences %40activestate.com/koDBXPreference%3Fdatabase%3DMySQL%3B1 @activestate.com/koDBXPreference?database=MySQL;1
