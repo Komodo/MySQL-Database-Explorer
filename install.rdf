@@ -4,7 +4,7 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>dbexplorer_mysql@ActiveState.com</em:id>
         <em:name>DBExplorer_mysql</em:name>
-        <em:version>0.3.2</em:version>
+        <em:version>0.3.3</em:version>
         <em:description>MySQL Adaptor for ActiveState Komodo's Database Explorer</em:description>
         <em:creator>Eric Promislow</em:creator>
         <em:unpack>true</em:unpack>
@@ -18,7 +18,7 @@
                 <!-- Komodo IDE's uuid -->
                 <em:id>{36E66FA0-F259-11D9-850E-000D935D3368}</em:id>
                 <em:minVersion>6.0</em:minVersion>
-                <em:maxVersion>10.*</em:maxVersion>
+                <em:maxVersion>11.*</em:maxVersion>
             </Description>
         </em:targetApplication>
     </Description>

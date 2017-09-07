@@ -8,6 +8,7 @@ In Komodo, click on "Go to Anything", then navigate to "Packages" and search for
 
 **Updates**
 
+Version 0.3.2: Support Komodo 11.*
 Version 0.3.1: Support Komodo 10.*
 Version 0.3: Allow hostname to be a file path to local mysql.sock
 Version 0.2: Use statically linked mysql library.
